@@ -1,11 +1,25 @@
-<section>
-  <h1>Tokecemani</h1>
-  <p>me toke</p>
-</section>
-<section>
-  <img src="https://7e9b24f8d61b3cab63cca833863ebcb0.r2.cloudflarestorage.com/reimu/attachments/10/10316-1c67fbd66bed9e71910f4336824fab3e.data?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=87b513803a6299100142bf5c4338c977%2F20250909%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250909T023940Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22moriya_summer_2025.webp.jpg%22&response-content-type=image%2Fjpeg&X-Amz-Signature=10f59c5b48e012ceedc4d3be1468440bd6c78b5ed22177a433e1c7437df14cef">
-</section>
-<!---
-Tokecemani227/Tokecemani227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+  <h1>Hi, I'm Tokecemani 👋</h1>
+  <p><i>"Me Toke"</i></p>
+
+  <img src="/img/45b30b18dc1d0de91fca56b03959380c.jpg.png" height="auto" width="100%" alt="Profile Image">
+  
+</div>
+
+---
+
+### 🛠️ What I'm working on
+* Learning more about Linux customization and shell scripting.
+* Some IoT and homelab
+
+### 🐧 Tech Stack
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Xfce](https://img.shields.io/badge/XFCE-blue?style=for-the-badge&logo=xfce&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tokecemani27&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
